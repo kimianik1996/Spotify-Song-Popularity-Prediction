@@ -10,6 +10,9 @@ EDA_Process_Code ==> Jupyter notebooks for data exploration, plots, and visuals 
 
 Data_Models_Code ==> Jupyter notebooks for preprocession and model building. it includes 3 models. 
 
+[open in Colab] https://drive.google.com/file/d/1MfQMPLMtg_vEp7ATOywlRwv0NFL4miXr/view?usp=sharing
+
+
 Dataset ==> spotify_cleaned_fixed_dataset.csv "cleaned dataset" 
 
 Business presenation.pptx ==> display results and outcomes of the project. 
