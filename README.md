@@ -4,6 +4,8 @@ This project analyzed spotify dataset to predict future popular songs based on o
 ## 📁 Project Structure
 EDA_Process_Code ==> Jupyter notebooks for data exploration, plots, and visuals for analysis and presentation. 
 
+[open in Colab] https://drive.google.com/file/d/141EqLFRgocoyuwaCNP0l7UaUukOlo1jc/view?usp=sharing
+
 
 
 Data_Models_Code ==> Jupyter notebooks for preprocession and model building. it includes 3 models. 
