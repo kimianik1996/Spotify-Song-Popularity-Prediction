@@ -8,5 +8,15 @@ Data_Models_Code ==> Jupyter notebooks for preprocession and model building. it 
 
 Dataset ==> spotify_cleaned_fixed_dataset.csv "cleaned dataset" 
 
+Business presenation.pptx ==> display results and outcomes of the project. 
 
+## 🔧 Tools Used
+
+- Python (Pandas, Scikit-learn, Matplotlib, Seaborn, XGBoost)
+- Jupyter Notebook
+- SMOTE (imbalanced-learn)
+
+## 📈 Results
+
+The Voting classifier model trained with SMOTE achieved an 0.8166 accuracy score in predicting whether a song will become popular or not.
 
